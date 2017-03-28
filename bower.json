@@ -1,0 +1,26 @@
+{
+  "name": "tweetb",
+  "description": "Blast tweets",
+  "main": "index.js",
+  "authors": [
+    "Arya Antaputra <arya@petewarrior.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Phaser",
+    "game",
+    "twit"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  }
+}
